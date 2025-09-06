@@ -1,12 +1,12 @@
 Hi 👋 My name is Michael Emtsev
 ===============================
 
-Junior QA Engineer
+QA Engineer
 ------------------
 
-I am an beginner QA engineer, graduated from Hexlet testing courses. I conduct manual testing, work with DevTools, Postman, Linux, Git, SQL. Participated in testing of Hexlet open source projects. I continue to learn autotesting in JavaScript.
+I am a QA engineer, with manual testing of web-apps experience. I conduct manual testing, work with DevTools, Postman, Linux, Git, SQL. Participated in Hexlet IT school open source projects. I continue to learn auto-testing in JavaScript.
 
-Looking for an internship or junior position with an opportunity for growth. Ready to work remotely and learn in a team.
+Looking for an interesting project with an opportunity for growth and . Ready to work remotely and learn new stack.
 
 * 🌍  I'm based in Belgrade, Serbia
 * ✉️  You can contact me at [misha9275@gmail.com](mailto:misha9275@gmail.com)
