@@ -10,7 +10,7 @@ Attention to detail, analytical mindset, and problem-solving approach. Strong ve
 
 * 🌍  I'm based in Belgrade, Serbia
 * ✉️  You can contact me at [misha9275@gmail.com](mailto:misha9275@gmail.com)
-* 🚀  I'm currently working on [Hexlet RunIT](http://https://runit.hexlet.ru/)
+* 🚀  I'm currently working on [Hexlet SICP](https://sicp.hexlet.io/)
 * 🧠  I'm currently learning JavaScript autotesting
 * 👥  I'm looking to collaborate on web applications or Game Dev projects
 
