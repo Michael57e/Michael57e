@@ -4,18 +4,18 @@ Hi 👋 My name is Michael Emtsev
 QA Engineer
 -----------
 
-I am a QA engineer with experience in testing front-end and back-end of web applications
+I am a QA engineer with experience in testing front-end and back-end of web applications.
 
 * 🌍  I'm based in Belgrade, Serbia  
-* ✉️  You can contact me at [misha9275@gmail.com](mailto:misha9275@gmail.com)  
-* 🚀  I'm currently working on [Open source project Hexlet SICP](https://sicp.hexlet.io)  
-* 🧠  I'm currently learning JavaScript & Playwright  
+* ✉️  Contact me at [misha9275@gmail.com](mailto:misha9275@gmail.com)  
+* 🚀  I work on [Open source project Hexlet SICP](https://sicp.hexlet.io)  
+* 🧠  And learn JavaScript & Playwright  
 * 👥  I'm looking to collaborate on some Game Dev project  
 * 💬  My hobbies are rock climbing and marathon running  
 
----
 
-## 🛠 Skills
+
+## Skills
 
 <p align="left">
 <a href="https://git-scm.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
@@ -36,9 +36,8 @@ I am a QA engineer with experience in testing front-end and back-end of web appl
 <a href="https://playwright.dev/" target="_blank"><img src="https://playwright.dev/img/playwright-logo.svg" width="36" height="36" alt="Playwright" /></a>
 </p>
 
----
 
-## 🌐 Socials
+## Socials
 
 <p align="left">
 <a href="https://github.com/Michael57e" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" /></a>
@@ -46,11 +45,11 @@ I am a QA engineer with experience in testing front-end and back-end of web appl
 <a href="https://www.linkedin.com/in/michael-emtsev-835144273/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" /></a>
 </p>
 
----
 
-## 🏆 Badges
 
-### ⭐ My GitHub Stats
+## Badges
+
+
 
 <a href="https://github.com/Michael57e">
   <img src="https://github-readme-stats.vercel.app/api?username=Michael57e&show_icons=true&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&v=1" alt="GitHub Stats" />
