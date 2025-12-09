@@ -1,4 +1,4 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Michael Emtsev
+[Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Michael Emtsev
 =======================================================================================================================================
 
 QA Engineer
@@ -28,4 +28,4 @@ Attention to detail, analytical mindset, and problem-solving approach. Strong ve
 
 <a href="http://www.github.com/Michael57e"><img src="https://github-readme-stats.vercel.app/api?username=Michael57e&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Michael57e's GitHub stats" /></a>
 
-<a href="https://github.com/Michael57e" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Michael57e&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/Michael57e" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Michael57e&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>](https://github.com/Michael57e)
